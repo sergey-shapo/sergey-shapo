@@ -3,7 +3,7 @@
 ### Hi, I’m Sergey Shaposhnik  
   
 
-- 🔭 I’m currently learning Full Stack Dev ...  
+
   
 
 <br/>  
